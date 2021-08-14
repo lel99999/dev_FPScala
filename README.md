@@ -1,2 +1,2 @@
 # dev_FPScala
-Functional Programming Scala
+Functional Programming and Architecture in Scala
